@@ -3,7 +3,7 @@ Riding Through Walls Bike Interface
 Exercise Bike Interface to Google Maps Street View
 Based on Keyboard.Message Example Program.
  Sends a text string when a button is pressed.
- Adapted to include more manipulation for 'Riding Trough Walls': a X-Canada Bike ride througuh Google Streetview, performed by Megan Smith.
+ Adapted to include more manipulation for 'Riding Trough Walls': a X-Canada Bike ride througuh Google Streetview, performed by Megan Smith. http://ridingthroughwalls.megansmith.ca/
  
  The circuit:
  * Magnetic reed switch attached from pin 2 to +5V
