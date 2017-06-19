@@ -5,8 +5,10 @@ Based on Keyboard.Message Example Program.
  Adapted to include more manipulation for 'Riding Trough Walls': a X-Canada Bike ride througuh Google Streetview, performed by Megan Smith.
  
  The circuit:
- * Magnetic reed switch attached from pin 2 to +5V
- * 10-kilohm resistor attached from pin 2 to ground
+ * Magnetic reed switch attached from pin 2 to ground
+ * Right pushbutton attached from pin 3 to ground
+ * Left pushbutton attached from pin 4 to ground
+ * Internal pullup resistors used for all three pins
  
  created 24 Oct 2011
  modified 27 Mar 2012
